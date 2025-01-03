@@ -1,0 +1,13 @@
+com\flow\eda\lean\controller\ProductController.class
+com\flow\eda\lean\service\serviceimpl\WarehouseServiceImpl.class
+com\flow\eda\lean\controller\WarehouseController.class
+com\flow\eda\lean\controller\WebConfig.class
+com\flow\eda\lean\service\ProductService.class
+com\flow\eda\lean\pojo\Product.class
+com\flow\eda\lean\excetion\GlobalExceptionHandler.class
+com\flow\eda\lean\pojo\Warehouse.class
+com\flow\eda\lean\service\WarehouseService.class
+com\flow\eda\lean\mapper\WarehouseMapper.class
+com\flow\eda\lean\service\serviceimpl\ProductServiceImpl.class
+com\flow\eda\lean\WareApplication.class
+com\flow\eda\lean\mapper\ProductMapper.class

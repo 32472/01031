@@ -1,0 +1,12 @@
+server:
+  port: 9090
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+    password: sjy12345.
+
+    username: song
+
+    url: jdbc:mysql://101.200.120.14:3306/ware
